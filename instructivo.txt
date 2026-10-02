@@ -1,0 +1,52 @@
+**1. Apertura de Turno y Preparación del Espacio**
+
+* **Inicio de sesión:** Ingresa al sistema con tu usuario y contraseña personal.
+* **Fondo de caja:** Conta el dinero en efectivo asignado para el cambio del día e ingresa esa cantidad exacta en la pantalla emergente de **Apertura de Caja**.
+* **Entorno al cliente:** Verifica que el área de cobro esté limpia, ordenada y libre de objetos ajenos a la venta antes de recibir al primer cliente.
+
+---
+
+**2. Registro de Productos con Atención Cálida**
+
+* **Bienvenida:** Saluda al cliente con la mirada y una sonrisa (*"¡Hola, buenos días! ¿Encontró todo lo que buscaba?"*).
+* **Escaneo de artículos:** Pasa los códigos de barras por el lector óptico. Si un código no lee, búscalo por su nombre o código manual en la barra de búsqueda del sistema.
+* **Manejo de artículos:** Maneja la mercancía con cuidado en todo momento, evitando azotar o empujar bruscamente los productos.
+* **Consultas de precio:** Si el cliente tiene dudas sobre el costo de un producto, consulta en el sistema y confírmale de manera amable antes de marcarlo.
+* **Promociones o membresías:** Pregunta si cuenta con tarjeta de cliente frecuente o si desea aplicar alguna promoción vigente (*"¿Cuenta con su número de socio o membresía?"*).
+
+---
+
+**3. Proceso de Cobro Transparente**
+
+* **Anuncio del total:** Menciona de forma clara el monto a pagar (*"En total serían $350 pesos, por favor"*).
+* **Selección del método de pago:** Pregunta al cliente cómo prefiere realizar su pago.
+* **Efectivo:** Recibe el dinero mencionando la cantidad recibida (*"Recibo $500 pesos"*). Escribe el monto en el sistema para que calcule el cambio exacto. Cuenta el cambio de vuelta en voz alta al entregárselo en la mano (*"Aquí tiene sus $150 pesos de cambio y su ticket"*).
+* **Tarjeta (Débito/Crédito):** Selecciona el pago con tarjeta en el sistema, pasa la terminal al cliente indicándole si debe insertar, deslizar o acercar su tarjeta, y espera la aprobación antes de completar la venta.
+* **Pago Mixto:** Si el cliente paga parte en efectivo y parte con tarjeta, ingresa primero el monto en efectivo y selecciona la opción de saldo restante para la tarjeta.
+
+
+
+---
+
+**4. Empaque, Ticket y Despedida Cordial**
+
+* **Empaque cuidadoso:** Coloca los productos en bolsas considerando su peso y tipo (evita mezclar productos de limpieza con alimentos o aplastar artículos frágiles).
+* **Entrega del comprobante:** Imprime el ticket físico o consulta si prefiere recibirlo en su correo electrónico/WhatsApp si el sistema lo permite.
+* **Agradecimiento final:** Despídete cordialmente manteniendo el contacto visual (*"Muchas gracias por su compra, ¡que tenga un excelente día!"*).
+
+---
+
+**5. Atención a Devoluciones o Aclaraciones**
+
+* **Actitud empática:** Ante una queja o cambio, mantén la calma y escucha con atención (*"Lamento el inconveniente, con gusto le ayudo a resolverlo"*).
+* **Ubicación de la venta:** Dirígete a **Historial de Ventas** o **Búsqueda de Ticket**, ingresa el folio del comprobante que presente el cliente.
+* **Procesar devolución:** Selecciona el artículo a devolver, presiona **Devolución / Cancelación** e ingresa el motivo. Si el sistema pide autorización de supervisión, solicita apoyo a tu encargado amablemente sin hacer esperar de más al cliente.
+
+---
+
+**6. Cierre de Turno (Corte de Caja)**
+
+* **Acceso al corte:** Selecciona el menú **Cierre de Turno** o **Corte Z**.
+* **Conteo físico:** Cuenta detalladamente el dinero en efectivo existente en la cajón, así como los comprobantes (vouchers) de pagos con tarjeta.
+* **Registro final:** Captura las cantidades finales en el sistema, imprime el reporte de cierre, firma el documento y resguarda el efectivo conforme a las políticas del negocio.
+* **Cierre de sesión:** Cierra tu usuario para dejar la pantalla lista para el siguiente compañero.
